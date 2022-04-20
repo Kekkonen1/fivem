@@ -5,7 +5,7 @@ apiset: shared
 ## LOAD_RESOURCE_FILE
 
 ```c
-char* LOAD_RESOURCE_FILE(char* resourceName, char* fileName);
+char* LOAD_RESOURCE_FILE(char* resourceName, char* TikimaaRp);
 ```
 
 Reads the contents of a text file in a specified resource.
